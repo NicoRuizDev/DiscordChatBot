@@ -81,10 +81,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<div align="center">
 <a href="https://github.com/PinkPicOfficial/Chat-Bot">
-    <img src="https://i.ibb.co/34Q9wnJ/demo.png" alt="Demo" width="512" height="439">
-  </a>
+<img src="https://i.ibb.co/34Q9wnJ/demo.png" alt="Demo" width="512" height="439">
+</a>
+</div>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
