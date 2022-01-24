@@ -62,9 +62,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -97,8 +95,6 @@ As I began to study this field more deeply, I realized that finding application 
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Discord.js v13](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
 * [Brainshop](https://brainshop.ai/)
