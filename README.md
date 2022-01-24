@@ -23,6 +23,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Discord][https://discord.gg/5gavuR47a4]
+![](https://img.shields.io/badge/Discord-blueviolet)
 
 
 
