@@ -101,6 +101,7 @@ As I began to study this field more deeply, I realized that finding application 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Discord.js v13](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
+* [Brainshop](https://brainshop.ai/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
