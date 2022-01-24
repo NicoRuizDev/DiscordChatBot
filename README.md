@@ -22,8 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Discord][https://discord.gg/5gavuR47a4]
-https://img.shields.io/badge/Discord-blueviolet
+[![Discord][discord-badge]
 
 
 
@@ -212,3 +211,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
 [license-url]: https://github.com/PinkPicOfficial/Chat-Bot/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
+[discord-badge]: https://img.shields.io/badge/Discord-blueviolet
