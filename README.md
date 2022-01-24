@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PinkPicOfficial/Chat-Bot">
-    <img src="logo.png" alt="Logo" width="64" height="64">
+    <img src="logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Chat Bot</h3>
