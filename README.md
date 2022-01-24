@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PinkPicOfficial/Chat-Bot">
-    <img src="logo.png" alt="Logo" width="512" height="439">
+    <img src="logo.png" alt="Logo" width="64" height="64">
   </a>
 
   <h3 align="center">Chat Bot</h3>
@@ -83,7 +83,7 @@
 ## About The Project
 
 <a href="https://github.com/PinkPicOfficial/Chat-Bot">
-    <img src="https://i.ibb.co/34Q9wnJ/demo.png" alt="Demo" width="1024" height="1024">
+    <img src="https://i.ibb.co/34Q9wnJ/demo.png" alt="Demo" width="512" height="439">
   </a>
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
