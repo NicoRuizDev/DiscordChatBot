@@ -103,7 +103,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://brainshop.ai/](https://brainshop.ai/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/PinkPicOfficial/Chat-Bot/
+   git clone https://github.com/PinkPicOfficial/Chat-Bot.git
    ```
 3. Install NPM packages
    ```sh
