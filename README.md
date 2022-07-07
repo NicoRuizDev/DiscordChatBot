@@ -146,8 +146,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Email: support@pinkpic.in
-
 Project Link: [https://github.com/NicoRuizDev/DiscordChatBot](https://github.com/NicoRuizDev/DiscordChatBot)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -156,8 +154,6 @@ Project Link: [https://github.com/NicoRuizDev/DiscordChatBot](https://github.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Discord Js](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
