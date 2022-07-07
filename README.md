@@ -31,14 +31,14 @@
   <p align="center">
     An awesome AI Chat Bot for Discord!
     <br />
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NicoRuizDev/DiscordChatBot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot">View Demo</a>
+    <a href="https://github.com/NicoRuizDev/DiscordChatBot">View Demo</a>
     ·
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot/issues">Report Bug</a>
+    <a href="https://github.com/NicoRuizDev/DiscordChatBot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PinkPicOfficial/Chat-Bot/issues">Request Feature</a>
+    <a href="https://github.com/NicoRuizDev/DiscordChatBot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -69,7 +69,7 @@ As I began to study this field more deeply, I realized that finding application 
 
 
 <div align="center">
-<a href="https://github.com/PinkPicOfficial/Chat-Bot">
+<a href="https://github.com/NicoRuizDev/DiscordChatBot">
 <img src="https://i.ibb.co/nfHKXmh/demo.png" alt="Demo" width="512" height="439">
 </a>
 </div>
@@ -101,7 +101,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://brainshop.ai/](https://brainshop.ai/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/PinkPicOfficial/Chat-Bot.git
+   git clone https://github.com/NicoRuizDev/DiscordChatBot.git
    ```
 3. Install NPM packages
    ```sh
@@ -121,8 +121,6 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://github.com/PinkPicOfficial/Chat-Bot)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -138,7 +136,7 @@ _For more examples, please refer to the [Documentation](https://github.com/PinkP
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/PinkPicOfficial/Chat-Bot/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/NicoRuizDev/DiscordChatBot) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,9 +151,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b PinkPicOfficial/Chat-Bot`)
+2. Create your Feature Branch (`git checkout -b NicoRuizDev/DiscordChatBot`)
 3. Commit your Changes (`git commit -m 'Add some Chat-Bot'`)
-4. Push to the Branch (`git push origin PinkPicOfficial/Chat-Bot`)
+4. Push to the Branch (`git push origin NicoRuizDev/DiscordChatBot`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -176,7 +174,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email: support@pinkpic.in
 
-Project Link: [https://github.com/PinkPicOfficial/Chat-Bot](https://github.com/PinkPicOfficial/Chat-Bot)
+Project Link: [https://github.com/NicoRuizDev/DiscordChatBot](https://github.com/NicoRuizDev/DiscordChatBot)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,14 +195,14 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/PinkPicOfficial/Chat-Bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/PinkPicOfficial/Chat-Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/PinkPicOfficial/Chat-Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/PinkPicOfficial/Chat-Bot/issues
-[license-shield]: https://img.shields.io/github/license/PinkPicOfficial/Chat-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/PinkPicOfficial/Chat-Bot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
+[contributors-url]: https://github.com/NicoRuizDev/DiscordChatBot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
+[forks-url]: https://github.com/NicoRuizDev/DiscordChatBot/network/members
+[stars-shield]: https://img.shields.io/github/stars/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
+[stars-url]: https://github.com/NicoRuizDev/DiscordChatBot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
+[issues-url]: https://github.com/NicoRuizDev/DiscordChatBot/issues
+[license-shield]: https://img.shields.io/github/license/NicoRuizDev/DiscordChatBot.svg?style=for-the-badge
+[license-url]: https://github.com/NicoRuizDev/DiscordChatBot/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
